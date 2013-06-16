@@ -10,7 +10,6 @@ This app makes use of Faye, a publish-subscribe messaging system that supports a
 
 ```
 git clone git@github.com:kareemgrant/backchannel-chatter.git
-
 ```
 
 2) Run ```bundle install```
